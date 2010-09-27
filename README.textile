@@ -4,7 +4,8 @@ p. I was sick of junky web interfaces and poor syndication so I spent some time 
 
 p. Current Inventory
 * 1305 Google tech talks
-* 564 O'Reilly talks and webinars
+* 564 O'Reilly talks and webcasts
+* 614 Stanford lectures
 
 h1. Related
 

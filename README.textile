@@ -1,0 +1,6 @@
+h1. Tech Talks URLs!
+
+p. I was sick of junky web interfaces and poor syndication so I spent some time scraping a few major tech talk and lecture sites. Here you will the resulting datasets.
+
+p. Current Inventory
+* 1305 Google Tech Talks

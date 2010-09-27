@@ -4,3 +4,7 @@ p. I was sick of junky web interfaces and poor syndication so I spent some time 
 
 p. Current Inventory
 * 1305 Google Tech Talks
+
+h1. Related
+
+p. "curltube":http://www.github.com/maxogden/curltube, a rubygem I created that downloads youtube FLVs from URL

@@ -6,6 +6,7 @@ p. Current Inventory
 * 1305 Google tech talks
 * 564 O'Reilly talks and webcasts
 * 614 Stanford lectures
+* 495 Google developer talks and tutorials
 
 h1. Related
 

@@ -6,6 +6,7 @@ p. Current Inventory
 * 1305 Google tech talks
 * 564 O'Reilly talks and webcasts
 * 614 Stanford lectures
+* 38 Talks from the Chaos Computer Club 26C3/27C3 Congresses
 * A handful of lectures from the Beckman Institute for Advanced Science and Technology in Illinois
 
 h1. Related

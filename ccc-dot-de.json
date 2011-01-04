@@ -1,0 +1,192 @@
+{
+    "docs" = >[{
+        "title" = >"[27C3] (en) Fnord-Jahresr\303\274ckblick 2010 (english translation)",
+        "link" = >"www.youtube.com/watch?v=l2aG3DFL2Uw",
+        "source" = >"Chaos Computer Club Congress"
+    },
+    {
+        "title" = >"[27C3] (de) Radio der Zukunft",
+        "link" = >"www.youtube.com/watch?v=aIjWqczciKk",
+        "source" = >"Chaos Computer Club Congress"
+    },
+    {
+        "title" = >"[27C3] (en) A Critical Overview of 10 years of Privacy Enhancing Technologies",
+        "link" = >"www.youtube.com/watch?v=5i7tpGTltx0",
+        "source" = >"Chaos Computer Club Congress"
+    },
+    {
+        "title" = >"[27C3] (en) INDECT - an EU-Surveillance Project",
+        "link" = >"www.youtube.com/watch?v=e1E6jRpk9CA",
+        "source" = >"Chaos Computer Club Congress"
+    },
+    {
+        "title" = >"[27C3] (en) OMG WTF PDF",
+        "link" = >"www.youtube.com/watch?v=54XYqsf4JEY",
+        "source" = >"Chaos Computer Club Congress"
+    },
+    {
+        "title" = >"[27C3] (en) Chip and PIN is Broken",
+        "link" = >"www.youtube.com/watch?v=PWnH_yblgTc",
+        "source" = >"Chaos Computer Club Congress"
+    },
+    {
+        "title" = >"[27C3] (en) Zero-sized heap allocations vulnerability analysis",
+        "link" = >"www.youtube.com/watch?v=LdP8H4ZeHEg",
+        "source" = >"Chaos Computer Club Congress"
+    },
+    {
+        "title" = >"[27C3] (en) SIP home gateways under fire",
+        "link" = >"www.youtube.com/watch?v=OUIcqNPiIM8",
+        "source" = >"Chaos Computer Club Congress"
+    },
+    {
+        "title" = >"[27C3] (de) Hacker Jeopardy",
+        "link" = >"www.youtube.com/watch?v=Y4PDh30DQ-g",
+        "source" = >"Chaos Computer Club Congress"
+    },
+    {
+        "title" = >"[27C3] (en) Tor is Peace, Software Freedom is Slavery, Wikipedia is Truth",
+        "link" = >"www.youtube.com/watch?v=tXCV_z_M0RA",
+        "source" = >"Chaos Computer Club Congress"
+    },
+    {
+        "title" = >"[27C3] (de) Ich sehe nicht, dass wir nicht zustimmen werden",
+        "link" = >"www.youtube.com/watch?v=5hftdrFQvwI",
+        "source" = >"Chaos Computer Club Congress"
+    },
+    {
+        "title" = >"[27C3] (de) Digitale Spaltung per Gesetz",
+        "link" = >"www.youtube.com/watch?v=fKUJfTmDFYI",
+        "source" = >"Chaos Computer Club Congress"
+    },
+    {
+        "title" = >"[27C3] (en) Ignorance and Peace Narratives in Cyberspace",
+        "link" = >"www.youtube.com/watch?v=ED2pWs99j1g",
+        "source" = >"Chaos Computer Club Congress"
+    },
+    {
+        "title" = >"[27C3] (de) Fnord-Jahresr\303\274ckblick 2010",
+        "link" = >"www.youtube.com/watch?v=L3CpXHnwQCM",
+        "source" = >"Chaos Computer Club Congress"
+    },
+    {
+        "title" = >"[27C3] (en) Reverse Engineering a real-world RFID payment system",
+        "link" = >"www.youtube.com/watch?v=1lS_iMkav5Q",
+        "source" = >"Chaos Computer Club Congress"
+    },
+    {
+        "title" = >"[27C3] (en) Desktop on the Linux... (and BSD, of course)",
+        "link" = >"www.youtube.com/watch?v=_ERAXJj142o",
+        "source" = >"Chaos Computer Club Congress"
+    },
+    {
+        "title" = >"[27C3] (en) Cybernetics for the Masses",
+        "link" = >"www.youtube.com/watch?v=lT6xzMdFJTA",
+        "source" = >"Chaos Computer Club Congress"
+    },
+    {
+        "title" = >"[27C3] (en) Running your own GSM stack on a phone",
+        "link" = >"www.youtube.com/watch?v=YYoyTWDKOLM",
+        "source" = >"Chaos Computer Club Congress"
+    },
+    {
+        "title" = >"[27C3] (en) Adventures in analyzing Stuxnet",
+        "link" = >"www.youtube.com/watch?v=73HlkCI-GwA",
+        "source" = >"Chaos Computer Club Congress"
+    },
+    {
+        "title" = >"[27C3] (en) IMMI, from concept to reality",
+        "link" = >"www.youtube.com/watch?v=305A1MBdsnk",
+        "source" = >"Chaos Computer Club Congress"
+    },
+    {
+        "title" = >"[27C3] (de) Whistleblowing",
+        "link" = >"www.youtube.com/watch?v=la7NZExYm88",
+        "source" = >"Chaos Computer Club Congress"
+    },
+    {
+        "title" = >"[27C3] (en) From robot to robot",
+        "link" = >"www.youtube.com/watch?v=e3J4fGGzZJw",
+        "source" = >"Chaos Computer Club Congress"
+    },
+    {
+        "title" = >"[27C3] (de) Friede sei mit Euren Daten",
+        "link" = >"www.youtube.com/watch?v=C16fnObvI60",
+        "source" = >"Chaos Computer Club Congress"
+    },
+    {
+        "title" = >"[27C3] (en) Android geolocation using GSM network",
+        "link" = >"www.youtube.com/watch?v=NouS5QicTYQ",
+        "source" = >"Chaos Computer Club Congress"
+    },
+    {
+        "title" = >"[27C3] (de) Spinning the electronic Wheel",
+        "link" = >"www.youtube.com/watch?v=OpHqWil7Jkg",
+        "source" = >"Chaos Computer Club Congress"
+    },
+    {
+        "title" = >"[27C3] (en) FrozenCache",
+        "link" = >"www.youtube.com/watch?v=_CZacpbe36Y",
+        "source" = >"Chaos Computer Club Congress"
+    },
+    {
+        "title" = >"[27C3] (en) Recent advances in IPv6 insecurities",
+        "link" = >"www.youtube.com/watch?v=c7hq2q4jQYw",
+        "source" = >"Chaos Computer Club Congress"
+    },
+    {
+        "title" = >"[27C3] (en) 27C3 Keynote",
+        "link" = >"www.youtube.com/watch?v=ALNovMk3fC8",
+        "source" = >"Chaos Computer Club Congress"
+    },
+    {
+        "title" = >"[27C3] (en) Contemporary Profiling of Web Users",
+        "link" = >"www.youtube.com/watch?v=Lw0SQRWrHjo",
+        "source" = >"Chaos Computer Club Congress"
+    },
+    {
+        "title" = >"[27C3] (de) Eins, zwei, drei - alle sind dabei",
+        "link" = >"www.youtube.com/watch?v=nxwNdLW_QGE",
+        "source" = >"Chaos Computer Club Congress"
+    },
+    {
+        "title" = >"[27C3] (en) Copyright Enforcement Vs. Freedoms",
+        "link" = >"www.youtube.com/watch?v=T6-4zzJDDWA",
+        "source" = >"Chaos Computer Club Congress"
+    },
+    {
+        "title" = >"26c3: our darknet and its bright spots - 3504 - EN",
+        "link" = >"www.youtube.com/watch?v=oPp0EbwL-3Q",
+        "source" = >"Chaos Computer Club Congress"
+    },
+    {
+        "title" = >"26c3: Hacking the universe - 3266 - EN",
+        "link" = >"www.youtube.com/watch?v=iGiHJCUnLv4",
+        "source" = >"Chaos Computer Club Congress"
+    },
+    {
+        "title" = >"26c3: Reverse-Engineering DisplayLink devices - 3353 - EN",
+        "link" = >"www.youtube.com/watch?v=LRxbW1-r7cQ",
+        "source" = >"Chaos Computer Club Congress"
+    },
+    {
+        "title" = >"26c3: Exposing Crypto Bugs through reverse engineering - 3703 - EN",
+        "link" = >"www.youtube.com/watch?v=HpjeZhjLf_c",
+        "source" = >"Chaos Computer Club Congress"
+    },
+    {
+        "title" = >"26c3: cat /proc/sys/net/ipv4/fuckups - 3596 - EN",
+        "link" = >"www.youtube.com/watch?v=XAep9f4E1Qk",
+        "source" = >"Chaos Computer Club Congress"
+    },
+    {
+        "title" = >"26c3: WikiLeaks Release 1.0 - 3567 - EN",
+        "link" = >"www.youtube.com/watch?v=XK3TzGRe-ls",
+        "source" = >"Chaos Computer Club Congress"
+    },
+    {
+        "title" = >"26c3: Here be dragons (Keynote) - 3700 - DE",
+        "link" = >"www.youtube.com/watch?v=hMSkjqDh0CY",
+        "source" = >"Chaos Computer Club Congress"
+    }]
+}

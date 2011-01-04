@@ -6,10 +6,12 @@ p. Current Inventory
 * 1305 Google tech talks
 * 564 O'Reilly talks and webcasts
 * 614 Stanford lectures
-* 38 Talks from the Chaos Computer Club 26C3/27C3 Congresses
+* 38 Talks from the "Chaos Computer Club 26C3/27C3 Congresses":http://jsconf.eu/2010/
+* 54 Talks from "JSConfEU 2010":http://jsconf.eu/2010/
 * A handful of lectures from the Beckman Institute for Advanced Science and Technology in Illinois
 
 h1. Related
 
 p. "Random Lecture":http://www.randomlecture.com lets you watch these talks in a web browser, randomly!
+
 p. "curltube":http://www.github.com/maxogden/curltube, a rubygem I created that downloads youtube FLVs from URL 

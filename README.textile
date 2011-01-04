@@ -6,8 +6,9 @@ p. Current Inventory
 * 1305 Google tech talks
 * 564 O'Reilly talks and webcasts
 * 614 Stanford lectures
-* 495 Google developer talks and tutorials
+* A handful of lectures from the Beckman Institute for Advanced Science and Technology in Illinois
 
 h1. Related
 
-p. "curltube":http://www.github.com/maxogden/curltube, a rubygem I created that downloads youtube FLVs from URL
+p. "Random Lecture":http://www.randomlecture.com lets you watch these talks in a web browser, randomly!
+p. "curltube":http://www.github.com/maxogden/curltube, a rubygem I created that downloads youtube FLVs from URL 

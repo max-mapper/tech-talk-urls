@@ -1,0 +1,328 @@
+{
+   "docs":[
+      {
+         "title":"Stoyan Stefanov - Performance Patterns",
+         "description":"In this talk Stoyan will share bits of his forthcoming book \"JavaScript Patterns\" (published O'Reilly) focusing on performance. How do we evaluate and measure performance and patterns to improve and write high-performance JavaScript. About Stoyan A true rock star (and yes, that music video is done in HTML...5 and CSS, rrr, 3, with JavaScript to glue it all) Stoyan Stefanov spends his days working on performance at Yahoo! and his nights open-sourcing, blogging and writing books on web development. Stoyan is the architect of YSlow 2.0, creator of smush.it image optimizer, speaker and author of Object-Oriented JavaScript and contributor to Even Faster Web Sites and High-Performance JavaScript. He tweets as @stoyanstefanov and blogs at phpied.com and jspatterns.com",
+         "link":"http://blip.tv/file/4440534",
+         "source":"JSConf.eu 2010"
+      },
+      {
+         "title":"Tom Hughes-Croucher - Don't write spaghetti code in server side JavaScript",
+         "description":"Sever Side JavaScript (especially Node.js) is a hot topic right now, but we are still figuring out what good SSJS code looks like. It isn't enough that we can write JavaScript on the server, or even that it is well written JavaScript. It's essential that we write maintainable JavaScript for the server environment. This talk will examine different coding styles for event driven, non-blocking SSJS and which styles are most successful.We'll take a look at strategies that other languages and frameworks with similar attributes such as Clojure, Erlang, Python/Twisted and Ruby/Event Machine use. From these languages we'll take a look what has worked well and what hasn't. We'll explore how these models can apply to JavaScript to create patterns that can be used to make code more maintainable.Since JavaScript is already an event driven language there is already a lot of support for events, and developers are used to developing code with the event driven browser. However, how we use these features on the server with it's additional freedom can either help or harm the long term use of our code. One of the obvious code defects created by poor use of the evented model in JavaScript is Pyramids. Pyramids are huge chains ofnested, dependant anonymous callbacks piled one on top of another until you end up with a pyramid of code, left to right. Pyramids are one of the first, obvious, mistakes people tend to make when beginning SSJS. We'll also discuss some of the less obvious ones and explore ways of avoiding them.About TomTom Hughes-Croucher ;is an Evangelist and Senior Developer in",
+         "link":"http://blip.tv/file/4387787",
+         "source":"JSConf.eu 2010"
+      },
+      {
+         "title":"Jed Schmidt - Getting Functional with (fab)",
+         "description":"Jed ;proved that the only way to become a real JavaScript ninja is by actually moving to Japan to practice the art.(fab)",
+         "link":"http://blip.tv/file/4381183",
+         "source":"JSConf.eu 2010"
+      },
+      {
+         "title":"Nikolai Onken & Jörn Zaefferer - Robotic JavaScript",
+         "description":"J&#246;rn Zaefferer ;of",
+         "link":"http://blip.tv/file/4372126",
+         "source":"JSConf.eu 2010"
+      },
+      {
+         "title":"Alexander Lang - Not your unit test",
+         "description":"Once again on the JSConf.eu roster we have Mr. ;Alexander Lang; this time talking about everybody's favorite topic: testing.\"I will talk about the different aspects, approaches and tools for testing javascript applications (web and offline, server and client side). There's much more you can do in testing than just writing a bunch of unit tests. To be confident in the code you write you also need to test the interactions between different modules, sometimes even integration with other services. Let me show you how.\"About Alex:Alex is the CEO of",
+         "link":"http://blip.tv/file/4369401",
+         "source":"JSConf.eu 2010"
+      },
+      {
+         "title":"Ulrike Mueller - Server-side JavaScript the untold story",
+         "description":"Did you know that London 2012 olympics shop runs on server-side JavaScript? Did you know that you can buy a Burton snowboard, a Puma sneaker or latest fashion from Nine West, all with the help from server-side JavaScript. All these web sites run on ;Demandware's commerce platform, where customization from business logic to pages is done with JavaScript. The talk gives an",
+         "link":"http://blip.tv/file/4367492",
+         "source":"JSConf.eu 2010"
+      },
+      {
+         "title":"Tim Caswell - Techniques and Tools for Taming Tangled Twisted Trains of Thought",
+         "description":"One of the biggest challenges to the otherwise wonderful programming model of JavaScript is handling complex logic that involves lots of async functions and things that emit events. The inversion-of-inversion-of-inversion-of-control often needed is hard to read, write, and just plain understand.With pre-empetive multi-threading you delegate all control to the operating system and it handles concurrency for you. This comes at a great performance cost. However with JavaScript this simply isn't the model, there is one thread and finite snippets of code executed. There is nothing like being able to tell a computer exactly how much code to run and under what conditions and it just works under extreme load and/or concurrency.Be prepared to have your mind warped and molded as you are trained to not only accept this fact of life, but embrace it. You'll even be thinking in callbacks by the time this talk is over.About TimTim ;is an ardent supporter of open-source software who believes that writing code should be fun. Tim is a core member of the node.js community and loves to help people learn and grow. He runs the",
+         "link":"http://blip.tv/file/4367293",
+         "source":"JSConf.eu 2010"
+      },
+      {
+         "title":"Douglas Crockford - Loopage",
+         "description":"Software development is hampered by a specific set of design mistakes that were made in the first programming languages and repeated in everything that has been done since. And, somewhat miraculously, JavaScript is going to make it right, radically transforming the way we write applications. Again. In the Loop of History, it has all happened before, but it has never happened like this.",
+         "link":"http://blip.tv/file/4365426",
+         "source":"JSConf.eu 2010"
+      },
+      {
+         "title":"Jenn Lukas - JavaScript + Web Standards II: The Quickening",
+         "description":"Straight from the JSConf.us talent pool comes the wonderful Jenn Lukas. If you missed her talk in the US, go watch it on blip.tv (when it is released :) because here comes part 2:\"Part one of this series spanned a broad overview of where JavaScript and Web Standards meet. I also explored examples of how to support progressive enhancement without sacrificing functionality or alienating users. The sequel to that talk will continue on that track and delve deeper into specific examples of JavaScript gone wrong! I will talk about common JavaScript enhanced mistakes that prevent users from enjoying the site experience and provide solutions on how to overcome those. Accessibility and usability should always be on the forefront of your code; this talk will cover take-away tips and general theory all while keeping those goals of best practices in mind.\"About Jenn: Jenn Lukas loves coffee, kittens, and is a leading authority on structural semantic markup and CSS. She has been coding the Internets since 1999 and is currently the Interactive Development Director at Happy Cog. Jenn also blogs regularly at the development focused site, The Nerdary, as well as maintains her own site, http://jennlukas.com/.",
+         "link":"http://blip.tv/file/4336317",
+         "source":"JSConf.eu 2010"
+      },
+      {
+         "title":"Kevin Dangoor, Joe Walker, Patrick Walton - Bespin: The JavaScript Programmer's Editor",
+         "description":"We're really proud to have a large number of Bespin devs at JSConf.eu. Three of them will give us a heads up on their work:The Mozilla Labs Bespin project has created a customizable code editor that's built on the HTML5 capabilities present in the rapidly expanding list of \"modern browsers\". The project has evolved to support the notion of \"coding in any cloud\", as it's easy to build an editor to include in your own web applications. You can use Bespin in bookmarklet form to improve the editing experience at any site you visit. Finally, the JavaScript-based desktop and server packages allow you to edit code on your local machine or in your own, personal or small group cloud.In this talk, the Mozilla developer tools team will run through what Bespin can do for you, how you can customize it and where the project is headed.About the Mozilla folks:Kevin Dangoor was the founder of the CommonJS, TurboGears and Paver projects and is currently the product manager for the Moziila Labs Bespin project. Joe Walker was the founder of the Direct Web Remoting (DWR) project and joined the Bespin project just after its public announcement.Patrick Walton joined the Bespin team in October 2009.",
+         "link":"http://blip.tv/file/4336091",
+         "source":"JSConf.eu 2010"
+      },
+      {
+         "title":"Brian LeRoux - PhoneGap: Love the Web and Lose the SDK",
+         "description":"Building native mobile applications across platforms with PhoneGap is super easy but developers are still required to install a dizzying array of SDKs for: iOS, Android, Blackberry, webOS, Symbian, MeeGo and Windows Phone. At JSConf.eu the PhoneGap team is releasing a special sneak peak at two new projects which aim to solve this problem. Unlike our previous sessions which have been information dense lightened up with pixel art and 4chan pictures this session will be more code intense: with pixel art and 4chan pictures!About Brian JavaScript joker at wtfjs.com, mobile js hacker with the PhoneGap team, creator of projects like XUI and Lawnchair and lead at Nitobi. Always an entertaining look at js development from the front lines of the mobile web.There will be also be a PhoneGap training with Brian probably on Friday before JSConf.eu. We'll keep you posted.",
+         "link":"http://blip.tv/file/4334022",
+         "source":"JSConf.eu 2010"
+      },
+      {
+         "title":"Guillermo Rauch - Socket.IO: WebSockets for everyone",
+         "description":"The realtime web is right around the corner, and JavaScript is here to help, both on the server and the client side. The WebSocket protocol promises to solve the problem of bidirectional communication once and for all, but can we leverage it today?Socket.IO ;provides an API that enables WebSocket for every browser (IE5.5, IE6, IE7, IE8, Safari, Chrome, Firefox 3-4, Opera 10) and multiple mobile devices (including the iPhone and the iPad). I'll talk about how you can get started using Socket.IO today, how people are using it in production environments, and how to create realtime web applications with just a few lines of code. About Guillermo CTO and cofounder of SF-based education startup LearnBoost, author of socket.io, co-author of the mongoose MongoDB Node.JS ORM, contributor to the express web framework, MooTools core developer, blogger and overall open source lover.",
+         "link":"http://blip.tv/file/4329176",
+         "source":"JSConf.eu 2010"
+      },
+      {
+         "title":"Jens Arps - The hitchhiker's guide to client side persistent data storage",
+         "description":"Plugin-independent client side data storage, like HTML5 powered localStorage or IndexedDB, is becoming more relevant every day, though it had been there for ages. In fact, IE 5.5 was the first browser to offer data persistence in other forms than cookies. However, today, as we are online most of our time, handling offline situations has become important for many web apps. And for mobile dev, storage is crucial: You wouldn't want to pull some hundred k of data via a slow connection again and again.\"This talk will take a tour around existing client side storage mechanisms. We'll start with cookies and see why it's a bad place to stay. Then we'll quickly move on to the good neighbours, visiting ancient places as well as futuristic ones and investigating their ins and outs. And we'll also stop by the frameworks/wrappers that give easy access to them. To make things more interesting, we'll then board a submarine and dive into the crazy world of mobile devices, it's special demands and see what options exist over there. Finally, we'll have a look at performance and security concerns. Don't forget your towel!\"About JensJens Arps is a Dojo-Enthusiast and Front-End-Developer at uxebu, and prefers Lavazza coffee over Segafredo. He switched very quickly from PHP to JavaScript, which he was hacking along already anyway. As a freelancer he was focused on web apps and user interfaces for the last years. He released some very forward thinking blog articles at http://jensarps.de. Now at uxebu he can purely focus on JavaScript and develops applications for embedded devices. His rare free time is distributed evenly among JavaScript, his dog and his wif",
+         "link":"http://blip.tv/file/4324386",
+         "source":"JSConf.eu 2010"
+      },
+      {
+         "title":"Peter Higgins - Your library sucks, and why you should use it",
+         "description":"JavaScript Frameworks, Libraries, and Loaders -- there is no shortage of options. Each are wrong. Each have their own philosophies, usefulness, targets, and flaws. Continuing on the \"It's Just JavaScript\" theme we'll take a subjective look at the current offerings, what problems they intend to solve, and the reasons you should be using one of them anyway.Either roll your own or adopt a major library, but know the caveats and benefits therein. Embrace JavaScript as the elegant, loosely-typed language that it is and leverage it's ubiquity for the forces of good. This is not your average framework-comparison presentation; there will be no charts or performance tests. There will be, however, lively discussion of the current state of affairs in the JavaScript landscape, client and server side. And of course beer.About Peter While waiting on his political aspirations to pan out, Peter Higgins is the project lead for the Dojo Toolkit, a professional code monkey for Joost, and all around JavaScript geek. He dislikes speaking in the third person, and when not writing JavaScript spends his time on a colossal demolition/remodel project, restoring a civil war era farmhouse in rural Tennessee.",
+         "link":"http://blip.tv/file/4323937",
+         "source":"JSConf.eu 2010"
+      },
+      {
+         "title":"Sebastian Werner - Introducing Unify - A Framework for Cross Platform Applications",
+         "description":"Mobile applications are a huge trend at the moment. But there is one major drawback: You need to develop them from scratch for every-single-platform. That hurts. Web technology seems like a natural choice to develop cross platform and fundamentally increases efficiency during development. This talk is about the richness of Unify applications, the focus of the project and our future plans.About SebastianSebastian Werner is a software developer at Deutsche Telekom AG in Darmstadt, Germany. He develops JavaScript based technologies for about seven years now. Sebastian was one of the initiators and lead engineers of the qooxdoo framework at 1&1 Internet AG. He has a quite unhealthy love with products from Apple. He is passionate about programming in Python. Currently he creates Unify, a new platform to improve efficiency of application developers on smartphones and tablets devices. Follow his thoughts on Twitter (@wpbasti) and his coding on Github. This year he will run his second marathon in Frankfurt.",
+         "link":"http://blip.tv/file/4320065",
+         "source":"JSConf.eu 2010"
+      },
+      {
+         "title":"Rostislav Hristov - The Art of Deep Linking and AJAX Crawling",
+         "description":"Meet the person that made deep linking into things that used have no URIs possible:\"Do you want to take your AJAX powered website to the next level by making it easily accessible through deep links? And how about making all the dynamic data available to the major search engines? Come and learn more about all the existing and evolving techniques, the best practices and details that you should have in mind.\"About RostislavRostislav is the founder of Asual DZZD, a small company from Bulgaria that has produced a number of open source projects including the popular deep linking library SWFAddress and the very similar jQuery Address plugin. He has been using JavaScript for almost a decade during which he has worked on everything from design and usability to Java and HTML5. In his spare time Rostislav plays punk rock music with his old time buddies.",
+         "link":"http://blip.tv/file/4319869",
+         "source":"JSConf.eu 2010"
+      },
+      {
+         "title":"Thomas Steiner - Pirating the Semantic Web with JavaScript",
+         "description":"The term \"Semantic Web\" has been around forever (well, almost, at least in Internet terms). This talk will provide an introduction to the Semantic Web as it evolves these days, with a strong focus on how to make use of semantically enriched data with JavaScript. We will show real world state-of-the-art examples, and also give an outlook on bleeding edge research on the topic, e.g. the JavaScript RDFa DOM API. About ThomasThomas Steiner is a proud dad-of-two, a Research Scientist at Google, and a PhD student at UPC.edu. His main research interests these days are the Semantic Web, Linked Data, and the architectural style REST. He is an experienced - but far from excellent - JavaScript coder, and currently thrilled to see the success of semantic technologies on the Web. In addition to that he works on making the Internet a better place, tweets as @tomayac and blogs at blog.tomayac.com.",
+         "link":"http://blip.tv/file/4318556",
+         "source":"JSConf.eu 2010"
+      },
+      {
+         "title":"Rebecca Murphey - The jQuery Divide",
+         "description":"Project managers, bosses, and teams are picking jQuery as their go-to JavaScript library at an ever-increasing pace. Nobody wants to choose a loser, and as demonstrated by super-meaningful Google graphs and surveys that count my grandfather's blog alongside leading web sites, jQuery is leaving all the other libraries in the dust. Plus, it's easy! And there's a plugin for everything! And with all those sites using it, finding someone who can write thoughtful, maintainable code with it will be totally no big deal. Right?This talk is a call to arms. This is not just JavaScript -- it's JavaScript, damnit, a language worthy of respect and, *gasp*, knowledgeable developers. When well-meaning but uninformed deciders and developers see jQuery as the be-all-end-all answer, conflating a knowledge of jQuery with a knowledge of JavaScript, we all lose. As a community, we owe it to the language -- and ourselves -- to give those deciders and developers the context they need to make well-informed decisions. Maybe jQuery is the right answer; but first, they need to truly understand the question.Rebecca's blog posts on the subject - On jQuery & Large Applications - On Rolling Your OwnAbout RebeccaRebecca Murphey is a JavaScript application developer and consultant, working to help clients write client-side applications that treat JavaScript as a rich and powerful language, not a toy. She's the co-host of the rollicking yayQuery podcast, the organizer of the unexpectedly epic TXJS, and a contributor to the jQuery Cookbook from O'Reilly. She's also active in trying to get more women to participate in the tech community, even if it means she has to get up on stage herself. She lives in Durham, North Carolina, with her partner, two dogs, and two terrible cats",
+         "link":"http://blip.tv/file/4308069",
+         "source":"JSConf.eu 2010"
+      },
+      {
+         "title":"Ryan Dahl - Techniques for a single stack world",
+         "description":"After last year's standing ovations performance, he is back. His last talk's video was viewed 12 thousand times. We're excited what will happen this year.Node.js presents the same non-blocking, single execution stack programming model of client-side Javascript. However, Node is arguably aiming at more complex problems than browsers have faced: massively concurrent servers that may shell out to many different processes, that might need to execute many sequential file system operations. Can this programming model support such systems or does the code degenerate into a spaghetti of callbacks? This talk will present an emerging set of patterns being used in this new domain.",
+         "link":"http://blip.tv/file/4306320",
+         "source":"JSConf.eu 2010"
+      },
+      {
+         "title":"Kris Kowal - CommonJS, I Promise",
+         "description":"After filling in for Kevin Dangoor on short notice last year, we are proud to have Kris Kowal back on stage!CommonJS 2010 is moving beyond modules. Placing a hold on standards for IO, CommonJS discussions this year have focused on Binary data, Promises, Packages, and more. We've also moved away from ratifying particular proposals and more toward providing a forum for thoughful design. Join Kris for a pointed presentation on the state of CommonJS: what's done, what's being debated, and what needs to be done.About Kris: Kris Kowal got involved with the early discussions about CommonJS in January 2009 to propose a module system. Some time later, transformed, transfigured, and polymorphed, \"require\" and \"exports\" became the staple of the CommonJS effort. To encourage the proliferation of modules, Kris has remained involved in CommonJS to close the gap between modern JavaScript and interoperable JavaScript in a wide variety of JavaScript embeddings. Kris presently develops web applications and conducts web performance research for FastSoft, a startup out of California's Institute of Technology (Caltech), is an Apple alumnus, and is making an online map of Middle Earth labeled in Elvish.",
+         "link":"http://blip.tv/file/4306040",
+         "source":"JSConf.eu 2010"
+      },
+      {
+         "title":"Brendan Eich - Proxies are Awesome!",
+         "description":"Brendan Eich - Proxies are Awesome!",
+         "link":"http://blip.tv/file/4298202",
+         "source":"JSConf.eu 2010"
+      },
+      {
+         "title":"Pete LePage - Chakra: Building A New JavaScript Engine For Internet Explorer 9",
+         "description":"Over the last five years, JavaScript has gone from a language for adding interactivity to a key driver for innovation on the web. A new generation of applications such as Gmail and Office Web Applications use thousands (or hundreds of thousands) of lines of JavaScript to deliver functionality and complexity similar to traditional desktop applications. With the advent of AJAX and script libraries, nearly every new site today makes use of JavaScript. These changes have also pushed browsers and script engines to evolve rapidly to keep up with user and developer needs to have fast, responsive applications and sites.Internet Explorer 9 introduces a new JavaScript engine, codenamed Chakra, which fundamentally changes the performance characteristics of JavaScript inside Internet Explorer 9. We'll dive into what's new in Chakra, including the new compiler that compiles JavaScript source code into high-quality native machine code, a new interpreter for executing script on traditional web pages, and improvements to the JavaScript runtime and libraries like ECMAScript 5 support.About PetePete LePage works at Microsoft on the Internet Explorer team as a Senior Product Manager, helping developers take advantage of the web platform in Internet Explorer. LePage has been designing websites since his early days in high school, evolving from overlapping , and tags on GeoCities to properly styled CSS, managed hosted websites. Prior to joining the product management team, LePage was a tester on Microsoft's Visual Web Developer where he tested much of the web design experience. In addition to his career at Microsoft, LePage enjoys travelling and is an avid film photographer; he has studied and taught at the prestigious Photographic Center Northwest in Seattle where he has recently completed his Thesis in Fine Art Photography. LePage keeps an irregular blog at http://PeteLePage.com",
+         "link":"http://blip.tv/file/4295830",
+         "source":"JSConf.eu 2010"
+      },
+      {
+         "title":"Paul Irish - The State of HTML5 : Inaugural Address",
+         "description":"HTML5 and friends have been getting implemented in browsers at an impressively quick pace. But that leaves us as web developers wondering, \"Great, but how am I supposed to build cross-browser applications with these features when I still have to support IE\".We'll take a look at what the landscape of implementable features are, detailing best practices of implementation and fallback solutions where appropriate. For example, how do you pair WebSockets with a standard comet stack and what do you have to watch out for.We'll also review your available feature set if you're only targeting webkit mobile, or if you've already given IE6 the boot.The data will be up-to-the-day accurate, covering all major browsers and filled with best practices from topic experts.About PaulPaul Irish is a front-end developer and user experience designer. He is on Google Chrome's Developer Relations team. He is also a member of the jQuery Developer Relations team as well as a host of the yayQuery Podcast about Javascript. He maintains the HTML5/CSS3 feature detection library Modernizr the HTML5 Boilerplate, and other bits and bobs of open source code. Paul is passionate about finding ways for regular web developers to be more effective and adopt things like HTML5 and CSS3 in their work today.",
+         "link":"http://blip.tv/file/4293357",
+         "source":"JSConf.eu 2010"
+      },
+      {
+         "title":"John-David Dalton - Srsly R1pp3d J@vaScript",
+         "description":"If you are talking hardcore-JavaScript there simply is no way around John (If you don't believe us check this out and understand why this is cool and fundamentally changing JavaScript ): 'All the major libraries have ended up looking like jQuery. Now they just bicker about who is the fastest. Library authors stopped innovating 2-3 years ago.' - Dean Edwards FuseJS is a new JS library that is bringing innovation back, solving problems thought unsolvable and challenging the JS status quo. I will give a brief history of FuseJS and discuss some of the areas FuseJS is innovating including sandboxed natives, event delegation, memory leak plugging, element cloning, feature testing/detection registries & profiling, API design, and customization.About John My first JavaScript project was a Super Mario Bros. game engine I made in high school. I have always been drawn to JavaScript and other ECMAScript based languages. I spend most of my time tinkering with JavaScript frameworks, fixing bugs, and running benchmarks. I love interacting with the JavaScript community and try to help as much as possible. I have a bachelors degree in Multimedia Instructional Design, an awesome wife, and an adorable Boston Terrier.",
+         "link":"http://blip.tv/file/4290636",
+         "source":"JSConf.eu 2010"
+      },
+      {
+         "title":"Nicole Sullivan - CSS Lint for Massive Sites",
+         "description":"You like the idea of Object Oriented CSS, but your website has out-of-control CSS bloat. You know your performance is being impacted, but how do you move from organic CSS with no particular architecture to something lighter, more logical, and easier to maintain? How do we automate some of the heavy-lifting and stop wasting our own time?CSS is typically the most difficult layer to automate, but a more clearly defined CSS architecture makes lint much more powerful. In this session, Nicole will show you how she improved the CSS at Facebook and demo tools that you can use to test your own CSS.About NicoleNicole is an evangelist, CSS Ninja, and author. She started the Object-Oriented CSS open source project, which answers the question: how do you scale CSS for millions of visitors or thousands of pages? She also consults with clients such as the W3C and Facebook, and is the co-creator of Smush.it , an image optimization service in the cloud. She is passionate about CSS, web standards, and scalable front-end architecture for large commercial websites.She co-authored Even Faster Websites and blogs at http://stubbornella.org .",
+         "link":"http://blip.tv/file/4288759",
+         "source":"JSConf.eu 2010"
+      },
+      {
+         "title":"Ben Firshman - Lessons learnt pushing browsers to the limit",
+         "description":"With \"limit\" Ben is referring to his JavaScript NES emulator. Applications that were once on the desktop are now appearing on the Web, bringing a whole new set of performance challenges. After writing a console emulator in JavaScript, I have a few tips to share that might be applicable to your more sensible applications. I will talk about the differences in performance between modern browsers, tweaks that can have a huge impact on the speed of your code, and some fun hacksAbout BenBen is a Django developer who, after writing JSNES, was sucked into the exciting world of JavaScript development. He has worked for the Guardian and Global Radio, and in his spare time makes newspapers and studies at the University of Warwick.",
+         "link":"http://blip.tv/file/4282255",
+         "source":"JSConf.eu 2010"
+      },
+      {
+         "title":"Aaron Quint - The Front-end Takeover",
+         "description":"We promise (really) that Aaron will talk about an actual JavaScript related topic!With all the talk and hype over server side platforms and technologies, somehow we've been neglecting the most ubiquitous and widely used javascript platform - the browser. Differences aside, the web browser and the desktop are becoming more and more entwined and just generally faster. Now is our chance to make web applications that surpass the usefulness and awesomeness of desktop counterparts. Sure, there are technologies that allow you to bring desktop style code to the web. With ;Sammy.js, I'm more interested in creating web style apps that can compete as desktop experiences. Sammy.js is a very simple",
+         "link":"http://blip.tv/file/4270156",
+         "source":"JSConf.eu 2010"
+      },
+      {
+         "title":"Sebastian Deutsch & Stephan Seidt - If it moves they will watch it",
+         "description":"Doing animations in the dark ages of the internet led you to technologies like Flash, or even Java Applets. Early arcane magicians tried bending the will of the DOM to create shiny stuff. ;It felt wrong.With HTML5 two technologies arrived to fix that: Say hi to Canvas and SVG!Our talk will cover basic usage and use cases of both technologies. By showing demos and real world examples we'll try to give you an understanding of when to choose what. Eventually we will show you libraries based on Canvas or SVG which should save you some time.About SebastianSebastian",
+         "link":"http://blip.tv/file/4262302",
+         "source":"JSConf.eu 2010"
+      },
+      {
+         "title":"Robert Nyman - HTML5 APIs - The New Frontier",
+         "description":"HTML5 is upon us and it offers a wide range of exciting possibilities when it comes to developing rich web interfaces. This talk will introduce you to a number of them and hopefully inspire you to create amazing things!About Robert: Robert has been doing web interface development for 12 years and he loves writing HTML, CSS and especially JavaScript. When he doesn't work as a consultant, he blogs at ;robertnyman.com , tweets at",
+         "link":"http://blip.tv/file/4249044",
+         "source":"JSConf.eu 2010"
+      },
+      {
+         "title":"Paul Bakaus - Aves Engine: High performance browser games",
+         "description":"Graphically intensive and fast paced browser games written in pluginless JavaScript largely do not exist yet, for a very specific reason - Performance issues. Only recently, browser engines started to give us enough quirks and hacks to power full motion graphics, animation and real time interaction. With unprecedented depth, you'll learn why Canvas isn't the obvious choice, why you should write JavaScript in front- and backend, why HTML5 really is just a buzzword and how to leverage CSS hardware accelerated to create true platform independent games. Dive in to the world of JavaScript gaming!About PaulPaul ;is the CTO and co-founder of",
+         "link":"http://blip.tv/file/4244325",
+         "source":"JSConf.eu 2010"
+      },
+      {
+         "title":"by Philip Hofstetter- node.js in production use: tempalias.com",
+         "description":"At least ;87%",
+         "link":"http://blip.tv/file/4239619",
+         "source":"JSConf.eu 2010"
+      },
+      {
+         "title":"Nicolas Garcia Belmonte - Creating Interactive Data Visualizations for the Web",
+         "description":"Kicking off our awesome list of speakers ;Nico Garcia Belmonte",
+         "link":"http://blip.tv/file/4239438",
+         "source":"JSConf.eu 2010"
+      },
+      {
+         "title":"Mikeal Rogers - node.js + CouchDB == Crazy Delicious",
+         "description":"For a variety of reasons ;CouchDB",
+         "link":"http://blip.tv/file/4235942",
+         "source":"JSConf.eu 2010"
+      },
+      {
+         "title":"Joe McCann - Rapid Prototyping for Multiple Platforms with JavaScript",
+         "description":"This topic will cover the concept of what rapid prototyping is, why it is important in the design and development process, and how you can not only leverage the power of JavaScript to rapidly develop proof of concepts and prototypes, but build them with multiple devices in mind.Digging DeeperThe area of Research and Development (R&D) in software, web and user interface engineering is making quite a statement in many large and small scale organizations lately. With such a vast amount of data and web service APIs available to developers, coupled with a huge demand for multiple systems integrating seamlessly across several platforms and devices, it should come as no surprise that companies are creating \"Labs\" departments left and right to create the \"next big thing.\"In order to cultivate innovative products and services, designers and developers need to research, ideate, and collaborate to develop creative approaches to current products or services, or even fill voids for users for products or services that have not been created. Developers need to quickly build out prototypes of these ideas in order to not only implement the ideas and prove the value of the concept, but to also provide new products and/or services for the business itself (and keep the R&D department alive!).Rapid prototyping is exactly as it sounds: creating a prototype of a concept or an idea in a very short amount of time. For years, such rapid prototyping and development of various simulations was heavily dominated by the Flash and Actionscript world. Now, with the speed and power of current JavaScript interpreters and its ubiquity across arguably the most used piece of software known to man (the web browser), JavaScript, in harmony with HTML and CSS is quickly becoming a go to resource for hashing out proofs of concepts.From My Presentation, You Will Learn...What rapid prototyping is and why it is important.Some actual results of rapid prototyping (case studies) with JavaScript.What tools you can use right now to build rapid prototypes (including Titanium Desktop, Phonegap, CouchDB, Node.js, JavaScript Templating, Webview for Android and plain HTML5 and CSS3).Tips on baking in ideas like performance, scalability, and maintenance into the prototypes and why you should avoid them.How to utilize a single codebase for usage across various devices and platforms including the desktop browser, the mobile browser and mobility products (e.g. Ipad).About JoeJoe McCann, a Senior Technologist at ;frog design, works on innovative design initiatives including the building out of rapid prototypes for companies such as Hewlett Packard and other confidential clients. Joe is also the Principal Consultant at subPrint Interactive, the founder and curator of the Austin JavaScript meetup group, a staunch supporter of the open web and a complete data junkie. Joe's current technical interests lie with machine learning, sentiment analysis, Node.js, Phonegap and Android.",
+         "link":"http://blip.tv/file/4235271",
+         "source":"JSConf.eu 2010"
+      },
+      {
+         "title":"Fabian Jakobs - Kick ass code editing and end to end JavaScript debugging",
+         "description":"At JSConf we do not tollerate product pitches (not even by our sponsors). The only exception is when the product rocks and has the potential of moving the community forward.At ;ajax.org",
+         "link":"http://blip.tv/file/4234963",
+         "source":"JSConf.eu 2010"
+      },
+      {
+         "title":"Felix Geisendörfer - Dirty NoSQL",
+         "description":"Felix was supposed to speak at JSConf 2010 in Washington, DC, but then there was a volcano!What would happen if your database would have no network interface, no query abstractions and less than 250 lines of node.js code? You would end up with a very flexible in-memory database that is wonderfully suitable for dirty tasks such as rapid prototyping or performing millions of GET/SET operations per second. ;This talk is about rethinking current database technology and exploring situation-based CAP tradeoffs.About FelixFelix loves node.js and other single threaded acrobatics such as unicycling. He is a co-founder of",
+         "link":"http://blip.tv/file/4234649",
+         "source":"JSConf.eu 2010"
+      },
+      {
+         "title":"Chris Williams - community.js",
+         "description":"http://promotejs.com",
+         "link":"http://blip.tv/file/4234500",
+         "source":"JSConf.eu 2010"
+      },
+      {
+         "title":"Steve Souders: Fast by Default",
+         "description":"Web 2.0 is adding more and more content to our pages, especially features that are implemented in Ajax. But our web applications are evolving faster than the browsers that they run in. We don't have to rely on or wait for the release of new browsers to make our web applications faster. In this session, Steve Souders discusses web performance best practices from his second book, Even Faster Web Sites. These time-saving techniques are used by the world's most popular web sites to create a faster user experience, increase revenue, and reduce operating costs. Steve provides technical details about reducing the pain of JavaScript, as well as secrets for making your page load faster in emerging markets where network connectivity is a challenge.",
+         "link":"http://blip.tv/file/3060565",
+         "source":"JSConf.eu 2010"
+      },
+      {
+         "title":"Ryan Dahl: Node.js",
+         "description":"",
+         "link":"http://blip.tv/file/2899135",
+         "source":"JSConf.eu 2010"
+      },
+      {
+         "title":"Douglas Crockford: The State and Future of JavaScript",
+         "description":"Douglas speaking about state and future of ECMAScript.",
+         "link":"http://blip.tv/file/2997761",
+         "source":"JSConf.eu 2010"
+      },
+      {
+         "title":"Francisco Tolmasky: Building Desktop-Caliber Web Apps With Cappuccino and Atlas",
+         "description":"This talk will cover the fundamentals of making desktop caliber applications using Cappuccino. I will also be showing off how to use our new tool, Atlas, to visually put these applications together and deploy them to desktop and web.",
+         "link":"http://blip.tv/file/3047969",
+         "source":"JSConf.eu 2010"
+      },
+      {
+         "title":"Dion Almaer: Future of the Web",
+         "description":"The Ajax revolution saw a sea change in web application development. By taking advantage of long-dormant browser capabilities, we were able to take our craft to new levels&#8212;reinventing well-established genres, challenging desktop applications, and jump-starting a renaissance in web start-ups.So what happens when we have new browser features to exploit? This session explores some of the latest shiny toys we can play with&#8212;potentially disruptive technologies that just might upset the status quo once again.",
+         "link":"http://blip.tv/file/2929265",
+         "source":"JSConf.eu 2010"
+      },
+      {
+         "title":"Robert Nyman: JavaScript - From Birth to Closure",
+         "description":"This presentation will give you a brief background to JavaScript, what it is and where it comes from. Then it will walk you through general pitfalls, best practices and more advanced topics such as object-orientation, scope and closures.",
+         "link":"http://blip.tv/file/3004532",
+         "source":"JSConf.eu 2010"
+      },
+      {
+         "title":"Peter Svensson",
+         "description":"...",
+         "link":"http://blip.tv/file/3161656",
+         "source":"JSConf.eu 2010"
+      },
+      {
+         "title":"Fabian Jakobs",
+         "description":"...",
+         "link":"http://blip.tv/file/3158592",
+         "source":"JSConf.eu 2010"
+      },
+      {
+         "title":"Alexandre Morgaut",
+         "description":"...",
+         "link":"http://blip.tv/file/3157409",
+         "source":"JSConf.eu 2010"
+      },
+      {
+         "title":"Viereck | Almaer",
+         "description":"...",
+         "link":"http://blip.tv/file/3156628",
+         "source":"JSConf.eu 2010"
+      },
+      {
+         "title":"Faruk Ates: JavaScript in the age of HTML5 and CSS 3",
+         "description":"The awesome Faruk Ate&#351; will be talking about using JavaScript in the age of HTML5 and CSS 3. Browsers are slowly implementing bits and pieces of HTML 5 and CSS 3. What does this mean for JavaScript? For years, JavaScript authors have created tools and libraries that supplement older browsers with the technologies of modern ones, but the landscape is changing. What are these things that are slowly rendering a useful part of the JavaScript world obsolete, and why is that a good thing for JavaScript authors?",
+         "link":"http://blip.tv/file/3054882",
+         "source":"JSConf.eu 2010"
+      },
+      {
+         "title":"Christophe Porteneuve: Aggregation with Sprockets",
+         "description":"no further description available",
+         "link":"http://blip.tv/file/3054322",
+         "source":"JSConf.eu 2010"
+      },
+      {
+         "title":"Alois Reitbauer: Tracing JS Performance",
+         "description":"DynaTrace Ajax Edition: http://ajax.dynatrace.com/pages/",
+         "link":"http://blip.tv/file/2961254",
+         "source":"JSConf.eu 2010"
+      },
+      {
+         "title":"Thomas Fuchs: Extreme JavaScript Performance",
+         "description":"Thomas is telling us all the little details bout JS performance ... Fasten your Seatbelts!",
+         "link":"http://blip.tv/file/2999333",
+         "source":"JSConf.eu 2010"
+      },
+      {
+         "title":"Remy Sharp: HTML5 JavaScript APIs",
+         "description":"\"Full-frontal\"-Remy talking about the HTML5 JS APIs.",
+         "link":"http://blip.tv/file/2996025",
+         "source":"JSConf.eu 2010"
+      },
+      {
+         "title":"Malte Ubl: A Meta Object System for JavaScript",
+         "description":"Because Malte heavily underestimated the effort to take part in organizing this conference he also commited himself to speaking at the event.",
+         "link":"http://blip.tv/file/2992604",
+         "source":"JSConf.eu 2010"
+      },
+      {
+         "title":"Alexander Lang: Writing apps on the edge with CouchDB",
+         "description":"More and more applications move away from classic desktop apps into the Internet. Taking HTML/CSS, JavaScript and today's browsers we can develop complex apps with rich user interfaces. The problem of these \"cloud\" applications is that they rely on central servers and a permanent internet connection, which even today is not always available. In this talk I demonstrate how to write applications that can run on servers as well as locally on a computer. After being offline any data changes can be synchronized back easily, using CouchDB and its replication features.",
+         "link":"http://blip.tv/file/2961086",
+         "source":"JSConf.eu 2010"
+      }
+   ]
+}
